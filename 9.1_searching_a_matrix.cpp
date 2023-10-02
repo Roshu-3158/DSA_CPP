@@ -33,10 +33,8 @@ int main()
             if(arr[i][j]==x){
                 cout<<"At position :"<<i<<" "<<j<< endl;
                 flag=true;
-            }
-            
+            }   
         }
-        
     }
     
     if(flag){
